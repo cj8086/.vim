@@ -1,0 +1,9 @@
+.netrwhist
+*.swp
+*.un~
+tags
+*.log
+autoload/
+plugged/
+undodir/
+
