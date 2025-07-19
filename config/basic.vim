@@ -11,7 +11,7 @@ set relativenumber
 set showcmd
 set laststatus=2 " always show status bar
 set showmode " show current editor mode
-set termguicolors " enable true color support
+" set termguicolors " enable true color support
 
 " searching
 set incsearch
